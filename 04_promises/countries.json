@@ -1,0 +1,54 @@
+{
+    "countries": [
+        {
+            "name": "Canada",
+            "continent": "North America",
+            "population": 38246108
+        },
+        {
+            "name": "Brazil",
+            "continent": "South America",
+            "population": 214326223
+        },
+        {
+            "name": "Germany",
+            "continent": "Europe",
+            "population": 83362097
+        },
+        {
+            "name": "Nigeria",
+            "continent": "Africa",
+            "population": 223804632
+        },
+        {
+            "name": "Australia",
+            "continent": "Australia",
+            "population": 26622103
+        },
+        {
+            "name": "China",
+            "continent": "Asia",
+            "population": 1411778724
+        },
+        {
+            "name": "Egypt",
+            "continent": "Africa",
+            "population": 111760601
+        },
+        {
+            "name": "Japan",
+            "continent": "Asia",
+            "population": 124542852
+        },
+        {
+            "name": "Argentina",
+            "continent": "South America",
+            "population": 46554073
+        },
+        {
+            "name": "Russia",
+            "continent": "Europe/Asia",
+            "population": 144643194
+        }
+    ]
+}
